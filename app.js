@@ -20,5 +20,7 @@ app.delete('/', (req, res)=>{
 });
 
 app.put('/', (req, res)=>{
-  res.send('Hello, PUT!');
+  //res.send('Hello, PUT!');
+  res.send('Alright, do it an even older way!');
 });
+ 
