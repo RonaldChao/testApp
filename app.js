@@ -21,6 +21,6 @@ app.delete('/', (req, res)=>{
 
 app.put('/', (req, res)=>{
   //res.send('Hello, PUT!');
-  res.send('Alright, do it the old way!');
+  res.send('Alright, do it an even older way!');
 });
  
